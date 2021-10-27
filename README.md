@@ -1,2 +1,2 @@
 # hello-world
-first repository
+my name is bill and love planes
